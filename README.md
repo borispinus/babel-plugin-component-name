@@ -28,7 +28,7 @@ npm  install --save-dev babel-plugin-component-name
 
 ## Usage
 
-Simply add add-react-displayname to your .babelrc file:
+Simply add component-name to your .babelrc file:
 ```
 {
 "plugins": ["component-name"]
