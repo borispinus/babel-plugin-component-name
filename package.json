@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-component-name",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "index.dist.js",
   "license": "MIT",
   "author": {
